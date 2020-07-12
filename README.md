@@ -12,7 +12,7 @@ curl -LO rcco1a/emailwiz.sh
 ```
 
 When prompted by a dialog menu at the beginning, select "Internet Site", then
-give your full domain without any subdomain, i.e. `lukesmith.xyz`.
+give your full domain without any subdomain, i.e. `example.xyz`.
 
 Read this readme and peruse the script's comments before running it.  Expect it
 to fail and you have to do bug testing and you will be very happy when it
